@@ -2,6 +2,7 @@
 # Spring Security Bank Application
 
 This is a simple Spring Boot application that demonstrates the use of **Spring Security** for securing REST endpoints, user authentication, and registration functionality. The project includes basic user management and a RESTful API for managing a list of students.
+Developed a Spring Boot application with integrated Spring Security for authentication, using PostgreSQL as the database, and tested API endpoints with Postman for user registration and login functionalities.
 
 ## Features
 
@@ -48,8 +49,5 @@ The project follows the typical Spring Boot structure:
 ### Home Page
 
 - `GET /`: A simple home page that returns a welcome message along with the session ID.
-
-## Used
-- `Developed a Spring Boot application with integrated Spring Security for authentication, using PostgreSQL as the database, and tested API endpoints with Postman for user registration and login functionalities.`
 
 
