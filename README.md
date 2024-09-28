@@ -49,17 +49,7 @@ The project follows the typical Spring Boot structure:
 
 - `GET /`: A simple home page that returns a welcome message along with the session ID.
 
-## Setup and Run Instructions
+## Used
+- `Developed a Spring Boot application with integrated Spring Security for authentication, using PostgreSQL as the database, and tested API endpoints with Postman for user registration and login functionalities.`
 
-### Prerequisites
 
-- **JDK 8 or higher**
-- **Maven** or **Gradle** (for building the project)
-- **MySQL** (if using database for storing users, or use H2 for in-memory DB)
-- **Postman** (or any API client for testing the endpoints)
-
-### Steps to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RamireddyVenkatesh/SpringSecurity.git
